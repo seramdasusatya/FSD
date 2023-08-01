@@ -1,0 +1,23 @@
+.tsk{
+	width: 400px;
+	height: 150px;
+	outline: 5px dotted red;
+	background-color: pink;
+}
+.ssk{
+	width: 500px;
+	height: 800px;
+
+}
+p{
+	text-align: center;
+}
+.abc{
+	display: grid;
+	place-items: center;
+	width: 300px;
+	height: 70px;
+	outline: 5px dashed firebrick;
+	box-shadow: 0 0 0 5px darkturquoise;
+	background-clip: padding-box,border-box;
+}

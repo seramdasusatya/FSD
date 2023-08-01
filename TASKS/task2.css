@@ -1,0 +1,6 @@
+div{
+	text-align: center;
+	width: 300px;
+	border: 10px solid;
+	border-image: url('images/abc.jpg') 30 fill / 30px stretch;
+}
